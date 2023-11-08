@@ -1,5 +1,4 @@
-# lp1-project
-Course project Programming Language 1
+# project-kanban
 Felipe Marcelo Aquino da Costa
 
           +-------------------+
